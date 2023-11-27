@@ -5,3 +5,16 @@ h1 ,h2{
 .box > .done{
 color: firebrick;
 }
+/* .box >p{
+    color: firebrick; // also work
+} */
+
+.list > li , .done {
+    color: blue;
+}
+/*  or 
+.box li{
+    color: blue; // works
+}
+
+*/
